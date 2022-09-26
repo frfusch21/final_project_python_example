@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "nama_produk":"Iphone 7",
+        "tahun_launching":2021,
+        "karakteristik":[
+            {
+                "OS":"iOS 15",
+                "warna":"biru"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "nama_produk":"Iphone X",
+        "tahun_launching":2022,
+        "karakteristik":[
+            {
+                "OS":"iOS 16",
+                "warna":"putih"
+            }
+        ]
+    }
+]

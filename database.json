@@ -1,0 +1,77 @@
+[
+    {
+      "ID": 1,
+      "BUSINESS": "Business Consultant",
+      "AGENT": [
+        {
+          "FIRSTNAME": "Jean-Christophe",
+          "LASTNAME": "Bernadac"
+        },
+        {
+          "FIRSTNAME": "François",
+          "LASTNAME": "Knab"
+        }
+      ],
+      "DESCRIPTION": "is a professional who advises, provides information, provides insight and provides recommendations to help clients reach their goals and solve problems."
+    },
+    {
+        "ID": 2,
+        "BUSINESS": "Marketing Analytics",
+        "AGENT": [
+          {
+            "FIRSTNAME": "Christoper",
+            "LASTNAME": "Bord"
+          },
+          {
+            "FIRSTNAME": "Faris",
+            "LASTNAME": "Knab"
+          }
+        ],
+        "DESCRIPTION": "the process of tracking and analyzing data from marketing efforts, often to reach a quantitative goal."
+      },
+      {
+        "ID": 3,
+        "BUSINESS": "Financial Planning",
+        "AGENT": [
+          {
+            "FIRSTNAME": "Johnny",
+            "LASTNAME": "Bordeinne"
+          },
+          {
+            "FIRSTNAME": "Turing",
+            "LASTNAME": "Allen"
+          }
+        ],
+        "DESCRIPTION": "the process of taking a comprehensive look at your financial situation and building a specific financial plan to reach your goals."
+      },
+      {
+        "ID": 4,
+        "BUSINESS": "Data Science",
+        "AGENT": [
+          {
+            "FIRSTNAME": "Farah",
+            "LASTNAME": "Yulianti"
+          },
+          {
+            "FIRSTNAME": "Ari",
+            "LASTNAME": "Prabowo"
+          }
+        ],
+        "DESCRIPTION": "is to predict data for future forecasting."
+      },
+      {
+        "ID": 5,
+        "BUSINESS": "Data Engineer",
+        "AGENT": [
+          {
+            "FIRSTNAME": "Rahmat",
+            "LASTNAME": "Hidayat"
+          },
+          {
+            "FIRSTNAME": "Ari",
+            "LASTNAME": "Prabowo"
+          }
+        ],
+        "DESCRIPTION": "is to make ETL before given to data scientist."
+      }
+  ]
